@@ -1,0 +1,6 @@
+0 1 9600 
+1 2 4800
+2 3 2400
+3 4 1200
+
+/*denotes BPSK , k_0 (spectral efficiency), d_0 (optical distance)*/
